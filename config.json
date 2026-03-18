@@ -1,0 +1,190 @@
+{
+  "plans": [
+    {
+      "name": "BUDGET",
+      "price": "50",
+      "popular": false,
+      "features": [
+        "Location N Virginia",
+        "2 GB Ram",
+        "4 GB Nvme",
+        "110 % CPU"
+      ],
+      "id": "1773687203502"
+    },
+    {
+      "name": "BUDGET",
+      "price": "200",
+      "popular": true,
+      "features": [
+        "Location N Virginia",
+        "5 GB Ram",
+        "10 GB Nvme",
+        "185 % CPU"
+      ],
+      "id": "1773687265493"
+    },
+    {
+      "name": "BUDGET",
+      "price": "290",
+      "popular": false,
+      "features": [
+        "Location N Virginia",
+        "9 GB RAM",
+        "17 GB Nvme",
+        "290 % CPU"
+      ],
+      "id": "1773687278101"
+    },
+    {
+      "name": "PRO",
+      "price": "65",
+      "popular": false,
+      "features": [
+        "Location India",
+        "2 GB Ram",
+        "4 GB Nvme",
+        "110 % CPU"
+      ],
+      "id": "1773687295372"
+    },
+    {
+      "name": "PRO",
+      "price": "245",
+      "popular": false,
+      "features": [
+        "Location India",
+        "5 GB Ram",
+        "10 GB Nvme",
+        "200 % CPU"
+      ],
+      "id": "1773687313676"
+    },
+    {
+      "name": "PRO",
+      "price": "335",
+      "popular": true,
+      "features": [
+        "Location India",
+        "8 GB Ram",
+        "16 GB Nvme",
+        "300 % CPU"
+      ],
+      "id": "1773687328388"
+    }
+  ],
+  "status": {
+    "panelStats": {
+      "nodes": 3,
+      "servers": 10,
+      "users": 150,
+      "uptime": "5 days, 3 hours and 12 minutes",
+      "panelOnline": true,
+      "lastUpdated": "just now",
+      "panelUrl": "https://panel.bleedhost.in"
+    },
+    "nodes": [
+      {
+        "id": "1",
+        "name": "IN-1",
+        "online": true,
+        "memory": "32 GB",
+        "memoryTotal": "64 GB",
+        "disk": "120 GB",
+        "diskTotal": "500 GB",
+        "uptime": "5 days, 3 hours and 12 minutes"
+      },
+      {
+        "id": "2",
+        "name": "IN-2",
+        "online": true,
+        "memory": "48 GB",
+        "memoryTotal": "128 GB",
+        "disk": "200 GB",
+        "diskTotal": "1 TB",
+        "uptime": "2 days, 11 hours and 44 minutes"
+      },
+      {
+        "id": "3",
+        "name": "SG-1",
+        "online": false,
+        "memory": "0 GB",
+        "memoryTotal": "64 GB",
+        "disk": "0 GB",
+        "diskTotal": "500 GB",
+        "uptime": "Offline"
+      }
+    ]
+  },
+  "content": {
+    "hero": {
+      "badgeText": "Minecraft Servers Available",
+      "headingLine1": "Dominate With",
+      "headingLine2": "BleedHost",
+      "subtext": "Premium Minecraft hosting built for performance. Zero lag, extreme DDoS protection, and instant setup. Claim your server today.",
+      "primaryBtn": "DEPLOY NOW",
+      "secondaryBtn": "VIEW PLANS"
+    },
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Active Servers"
+      },
+      {
+        "value": "<1ms",
+        "label": "Average Ping"
+      },
+      {
+        "value": "480Gbps",
+        "label": "DDoS Protection"
+      },
+      {
+        "value": "99.9%",
+        "label": "Network Uptime"
+      }
+    ],
+    "plans": {
+      "heading": "Choose Your",
+      "headingAccent": "Arsenal",
+      "subtext": "Transparent pricing. No hidden fees. Upgrade or downgrade anytime as your community grows."
+    },
+    "features": {
+      "heading": "Why",
+      "headingAccent": "BleedHost?",
+      "subtext": "We don't cut corners. Every node is optimized specifically for heavy Minecraft workloads.",
+      "items": [
+        {
+          "title": "Ironclad DDoS Protection",
+          "description": "Our massive 480Gbps mitigation capacity ensures your server stays online even during targeted attacks."
+        },
+        {
+          "title": "Instant Deployment",
+          "description": "Your server is provisioned and ready to play within 60 seconds of order confirmation."
+        },
+        {
+          "title": "Global Locations",
+          "description": "10+ premium data centers worldwide guaranteeing low latency wherever your players are."
+        },
+        {
+          "title": "Extreme Performance",
+          "description": "Running on the latest Ryzen 9 processors with NVMe SSDs for zero block lag."
+        },
+        {
+          "title": "Automated Backups",
+          "description": "Never lose your world. We run off-site daily backups automatically."
+        },
+        {
+          "title": "24/7 Expert Support",
+          "description": "Our team of Minecraft veterans is always ready to help you via Discord tickets."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Join The",
+      "headingAccent": "Community",
+      "subtext": "Get instant support, participate in giveaways, and connect with other server owners in our active Discord server.",
+      "discordLink": "https://discord.gg/G3Hhu3Q9R4",
+      "buttonText": "JOIN DISCORD SERVER"
+    }
+  }
+}
